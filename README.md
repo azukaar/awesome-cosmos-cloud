@@ -5,7 +5,7 @@ A curated list of awesome Cosmos Cloud resources, tools, and tutorials.
 ## Useful Links
 
 - [Official Website](https://cosmos-cloud.io/)
-- [Documentation](https://cosmos-cloud.io/docs)
+- [Documentation](https://cosmos-cloud.io/doc)
 - [GitHub](https://github.com/azukaar/cosmos-Server)
 - [Discord](https://discord.gg/PwMWwsrwHA)
 - [Demo](https://cosmos-cloud.io/cosmos-ui/)
