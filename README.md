@@ -37,3 +37,4 @@ A curated list of awesome Cosmos Cloud resources, tools, and tutorials.
 - [CasaOS Conversion](https://github.com/azukaar/cosmos-casaos-store)
 - [TinyActive](https://github.com/TinyActive/cosmos-servapps)
 - [lilkidsuave](https://github.com/lilkidsuave/cosmos-servapps-unofficial)
+- [eralumin](https://github.com/eralumin/cosmos-servapps)
