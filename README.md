@@ -20,7 +20,7 @@ A curated list of awesome Cosmos Cloud resources, tools, and tutorials.
 
 ## Text Guides & Introductions
 
-- [Official Getting Started](https://cosmos-cloud.io/docs/index/)
+- [Official Getting Started](https://cosmos-cloud.io/blog/getting-started-with-beyond-cloud/)
 - [Engel's Guide](https://guides.engels.zip/)
 
 ## Video Guides
@@ -39,3 +39,4 @@ A curated list of awesome Cosmos Cloud resources, tools, and tutorials.
 - [lilkidsuave](https://github.com/lilkidsuave/cosmos-servapps-unofficial)
 
 - [Ragdata](https://github.com/Ragdata/cosmos-servapps)
+
