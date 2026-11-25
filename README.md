@@ -39,4 +39,5 @@ A curated list of awesome Cosmos Cloud resources, tools, and tutorials.
 - [lilkidsuave](https://github.com/lilkidsuave/cosmos-servapps-unofficial)
 
 - [Ragdata](https://github.com/Ragdata/cosmos-servapps)
+- [NuviraHub](https://github.com/nuvira-hub/cosmos-market) - the server of NuviraHub, an open-source remote desktop app (source: `https://nuvira-hub.github.io/cosmos-market/index.json`)
 
